@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Demo App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="activity_display_message">Message</string>
+    <string name="customerid_hint">Enter Customer Id</string>
+    <string name="button_login_customerid">Login Customer Id</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="button_login_email">Login Email</string>
+    <string name="button_logout">Logout</string>
+</resources>
